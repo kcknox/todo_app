@@ -1,0 +1,16 @@
+[package]
+name = "backend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = { version = "0.7.5", features = ["form"] }
+axum-error = "0.2.0"
+dotenv = "0.15.0"
+serde = { version = "1.0.203", features = ["derive"] }
+sqlx = { version = "0.7.4", features = ["runtime-tokio", "tls-rustls", "sqlite"] }
+tokio = { version = "1.38.0", features = ["full"] }
+tower-http = { version = "0.5.2", features = ["cors"] }
+
+[build-dependencies]
+cc = "1.0"
