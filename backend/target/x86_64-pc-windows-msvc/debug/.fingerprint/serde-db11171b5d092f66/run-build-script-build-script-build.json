@@ -1,1 +1,0 @@
-{"rustc":18260301964069568163,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[2511671586729554969,"build_script_build",false,5212463771167447870]],"local":[{"RerunIfChanged":{"output":"x86_64-pc-windows-msvc\\debug\\build\\serde-db11171b5d092f66\\output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
