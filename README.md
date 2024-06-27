@@ -1,22 +1,21 @@
 # Fullstack app for practice of Rust in backend and Sveltekit in frontend
+
+##Server
 ```bash
-cd backend
+$ cd backend
 ```
 
 ```bash
-cargo run
+$ cargo run
+```
+
+##Frontend
+```bash
+$ cd frontend
 ```
 
 ```bash
-cd ..
-```
-
-```bash
-cd frontend
-```
-
-```bash
-pnpm dev
+$ pnpm dev
 ```
 
 Inspired by SvelteRust
