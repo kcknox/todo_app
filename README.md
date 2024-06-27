@@ -1,6 +1,6 @@
 # Fullstack app for practice of Rust in backend and Sveltekit in frontend
 
-##Server
+## Server
 ```bash
 $ cd backend
 ```
@@ -9,7 +9,7 @@ $ cd backend
 $ cargo run
 ```
 
-##Frontend
+## Frontend
 ```bash
 $ cd frontend
 ```
